@@ -3,8 +3,17 @@ body {
     background-image: url(./images/backgroundimage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
-    padding-top: 150px;
+    background-position: center top;
+}
+
+.header {
+    height: 110px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    background-color: white;
 }
 
 .container {
@@ -13,13 +22,3 @@ body {
     justify-content: space-around;
 }
 
-#header {
-    height: 110px;
-    width: 100%;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    background-color: white;
-    opacity: 90%;
-    text-align: center;
-}

@@ -18,7 +18,28 @@ body {
 
 .container {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    flex-wrap: nowrap;
+    justify-content: center;
 }
 
+.main-content {
+    padding-top: 120px;
+    background-color: purple;
+}
+
+.footer {
+    height: 40px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    text-align: right;
+    background-color: white;
+}
+
+#facebook{
+    margin: 0px 5px 0px 10px;
+}
+#instagram {
+    margin: 0px 10px 0px 5px;
+}

@@ -17,18 +17,20 @@ body {
     opacity: 95%;
 }
 
-.container {
+.flex-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .nav {
-    flex-grow: 3;
+
+    flex-direction: column;
+    justify-content: center;
     background-color: blue;
 }
 
 .main-content {
-    flex-grow: 6;
+
     background-color: purple;
 }
 

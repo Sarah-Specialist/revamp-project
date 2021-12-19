@@ -68,6 +68,15 @@ body {
     justify-content: center;
     background-color: white;
     opacity: 95%;
+    padding: 20px 80px;
+}
+
+article h2 {
+    color: #CF0015;
+}
+
+article {
+    padding-bottom: 50px;
 }
 
 .footer {
@@ -99,6 +108,10 @@ body {
     margin: 0px 10px 0px 5px;
 }
 
+#deliveroo {
+    margin-bottom: 2px;
+}
+
 #grabfood {
-    margin: 2px 5px 0px 0px;
+    margin-right: 5px;
 }

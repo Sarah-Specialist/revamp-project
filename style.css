@@ -1,0 +1,25 @@
+body {
+    background-color:aqua;
+    background-image: url(./images/backgroundimage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding-top: 150px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#header {
+    height: 110px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: white;
+    opacity: 90%;
+    text-align: center;
+}

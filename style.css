@@ -69,6 +69,8 @@ body {
     background-color: white;
     opacity: 95%;
     padding: 20px 80px;
+    height: 420px;
+    overflow-y: scroll;
 }
 
 article h2 {

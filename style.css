@@ -80,22 +80,25 @@ body {
     opacity: 90%;
 }
 
-#facebook{
-    margin: 0px 5px 5px 325px;
+#copyright {
+    text-align: left;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+#socials {
+    text-align: right;
+    margin-top: -20px;
+}
+
+#facebook {
+    margin: 0px 5px 0px 325px;
 }
 
 #instagram {
-    margin: 0px 10px 5px 5px;
-}
-
-#foodpanda {
-    margin: 0px 0px 5px 0px;
-}
-
-#deliveroo {
-    margin: 0px 0px 5px 0px;
+    margin: 0px 10px 0px 5px;
 }
 
 #grabfood {
-    margin: 0px 0px 4px 0px;
+    margin: 2px 5px 0px 0px;
 }

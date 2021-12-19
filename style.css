@@ -19,19 +19,55 @@ body {
 
 .flex-container {
     display: flex;
-    flex-direction: row;
+    padding-top: 120px;
+    text-align: center;
+    gap: 20px;
+}
+
+.flex-container > *:nth-child(1) {
+    flex: 1 1 20%;
+}
+
+.flex-container > *:nth-child(2) {
+    flex: 1 1 80%;
 }
 
 .nav {
-
     flex-direction: column;
     justify-content: center;
-    background-color: blue;
+    background-color: white;
+    opacity: 95%;
+}
+
+.nav-item {
+    padding: 30px 0px;
+}
+
+#about {
+    color: lightcoral;
+}
+
+#menu {
+    color: sandybrown;
+}
+
+#outlets {
+    color: mediumpurple;
+}
+
+#park {
+    color: mediumaquamarine;
+}
+
+#contact {
+    color: dodgerblue;
 }
 
 .main-content {
-
-    background-color: purple;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    opacity: 95%;
 }
 
 .footer {
@@ -47,6 +83,19 @@ body {
 #facebook{
     margin: 0px 5px 5px 325px;
 }
+
 #instagram {
     margin: 0px 10px 5px 5px;
+}
+
+#foodpanda {
+    margin: 0px 0px 5px 0px;
+}
+
+#deliveroo {
+    margin: 0px 0px 5px 0px;
+}
+
+#grabfood {
+    margin: 0px 0px 4px 0px;
 }

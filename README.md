@@ -29,8 +29,9 @@ This is my individual project for the Trent Global Software Development Basic co
 
 ### Starting point
 
-Mos Burger website: ![http://www.mosburger.com.sg/home.php](http://www.mosburger.com.sg/home.php)
+Mos Burger website: ![](http://www.mosburger.com.sg/home.php)
 ![](./images/mosburger-initial2.jpg)
+
 The current website for Mos Burger Singapore can be improved upon! On the top of the website, there are many social media icons that clutter the brand logo and brand motto.  On a smaller screen, the brand logo is hidden! The navigation bar is barely accessible. With some adjustment to HTML and CSS, the website becomes cleaner and responsive to the user.
 
 ### Usage

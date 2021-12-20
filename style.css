@@ -188,6 +188,18 @@ article {
         margin-top: -10%;
     }
 
+    .toggle-button {
+        display: flex;
+    }
+
+    .navbar-links {
+        display: none;
+    }
+
+    .navbar-links.active {
+        display: flex;
+    }
+
     .main-content {
         padding: 20px 20px;
         overflow-y: scroll;

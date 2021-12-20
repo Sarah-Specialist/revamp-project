@@ -27,7 +27,7 @@ This is my individual project for the Trent Global Software Development Basic co
 
 ## Getting Started
 
-###Starting point
+### Starting point
 
 Mos Burger website: ![http://www.mosburger.com.sg/home.php](http://www.mosburger.com.sg/home.php)
 ![](./images/mosburger-initial2.jpg)

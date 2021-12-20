@@ -4,12 +4,12 @@
 
 * Introduction
 * Built with
-* Getting Started
+* Further information
 * Authors and acknowledgement
 
 ## Introduction
 
-This is my individual project for the Trent Global Software Development Basic course. I have used the current version of the Mos Burger website and updated it. 
+This is my individual project for the Trent Global Software Development Basic course. I have used the current version of the Mos Burger website and updated it while retaining the brand feelings.
 
 ## Built with
 
@@ -18,9 +18,9 @@ This is my individual project for the Trent Global Software Development Basic co
 * Visual Studios Code
 * GitHub
 
-## Getting Started
+## Further information
 
-### Starting point
+### Progress
 
 #### Mos Burger website: 
 

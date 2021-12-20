@@ -12,8 +12,8 @@ body {
 }
 
 .header {
-    height: 110px;
-    width: 100%;
+    height: 20%;
+    width: 100vw;
     position: absolute;
     top: 0px;
     left: 0px;
@@ -40,9 +40,8 @@ body {
 
 .toggle-button {
     position: absolute;
-    top: 0.75rem;
-    right: 1rem;
-    margin-top: -110px;
+    top: -100px;
+    left: 1220px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -60,16 +59,23 @@ body {
 .navbar {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     background-color: white;
     opacity: 95%;
     height: 420px;
 }
 
+.navbar-links {
+    margin-left: -45px;
+}
+
 .navbar-links li {
-    padding: 30px 0px;
+    padding: 28px 55px 28px 60px;
     list-style: none;
-    justify-content: center;
+}
+
+.navbar-links li a:hover {
+    text-decoration: none;
+    font-size: 18px;
 }
 
 #about {
@@ -111,7 +117,7 @@ article {
 }
 
 .footer {
-    height: 30px;
+    height: 5%;
     width: 100%;
     position: fixed;
     bottom: 0px;
@@ -119,7 +125,6 @@ article {
     background-color: white;
     opacity: 90%;
     display: flex;
-    flex-wrap: wrap;
 }
 
 .footer > *:nth-child(1) {
@@ -166,31 +171,62 @@ article {
     .flex-container {
         display: flex;
         flex-wrap: wrap;
+        padding-top: 12%;
+    }
+
+    .header {
+        position: fixed;
+        width: 100%;
+        height: 10%;
+    }
+
+    .header img {
+        max-width: 100%;
+    }
+
+    .flex-container > *:nth-child(1) {
+        display: none;
+    }
+
+    .flex-container > *:nth-child(2) {
+        height: 475px;
     }
 
     .toggle-button {
         display: flex;
     }
-
-    .navbar-links {
-        display: none;
-        width: 100%;
-    }
-
-    .navbar-links ul {
-        width: 100%;
-    }  
     
     .navbar-links li {
         text-align: center;
-        display: none;
         width: 100%;
     }
 
     .main-content {
         padding: 20px 20px;
-        height: 30vh;
         overflow-y: scroll;
+    }
+
+    .footer {
+        position: fixed;
+        height: 25px;
+    }
+
+    .footer > *:nth-child(1) {
+        display: none;
+    }
+    
+    .footer > *:nth-child(2){
+        position: absolute;
+        left: 0px;
+        bottom: 0px;
+    }
+
+    #socials {
+        text-align: left;
+    }
+
+    #facebook {
+        margin: 0px 5px 0px 0px;
     }
 
 /* Medium devices (landscape tablets, 768px and up) */

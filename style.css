@@ -22,6 +22,10 @@ body {
     opacity: 95%;
 }
 
+.header img {
+    width: 100%;
+}
+
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
@@ -42,7 +46,7 @@ body {
     position: absolute;
     top: 3%;
     right: 1%;
-    display: flex;
+    display: none;
     flex-direction: column;
     justify-content: space-between;
     width: 30px;
@@ -70,6 +74,7 @@ body {
 }
 
 .navbar-links li {
+    display: flex;
     padding: 28px 55px 28px 60px;
     list-style: none;
 }
@@ -180,6 +185,10 @@ article {
         max-width: 100%;
     }
 
+    .flex-container .navbar {
+        display: none;
+    }
+
     .flex-container > *:nth-child(2) {
         height: 475px;
     }
@@ -192,15 +201,12 @@ article {
         display: flex;
     }
 
-    .navbar-links {
-        display: none;
-    }
-
     .navbar-links.active {
         display: flex;
     }
 
     .main-content {
+        margin-top: -10%;
         padding: 20px 20px;
         overflow-y: scroll;
     }

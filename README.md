@@ -15,6 +15,7 @@ This is my individual project for the Trent Global Software Development Basic co
 
 * HTML
 * CSS
+* JavaScript
 * Visual Studios Code
 * GitHub
 
@@ -55,3 +56,4 @@ This is my individual project for the Trent Global Software Development Basic co
 ## Authors and acknowledgement
 
 * Trent Global
+* ![](https://www.youtube.com/watch?v=At4B7A4GOPg&t=4s)

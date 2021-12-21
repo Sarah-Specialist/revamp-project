@@ -309,7 +309,8 @@ article {
 
     .toggle-button {
         display: flex;
-        top: 1%;
+        top: 2%;
+        right: 2%;
         width: 30px;
         height: 20px;
     }
@@ -352,6 +353,23 @@ article {
     #facebook {
         margin: 0px 5px 0px 10px;
     }
+
+    #instagram {
+        margin: 2px 5px 2px 0px;
+    }
+
+    #foodpanda {
+        margin-bottom: 0px;
+    }
+    
+    #deliveroo {
+        margin-bottom: 0px;
+    }
+    
+    #grabfood {
+        margin: 0px 5px 0px 0px;
+    }
+    
 
     #facebook,
     #instagram {

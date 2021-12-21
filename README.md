@@ -28,6 +28,8 @@ This is my individual project for the Trent Global Software Development Basic co
 
 ![](./images/mosburger-initial2.jpg)
 
+
+
 ### Outcome for phone:
 
 ![]( https://github.com/Sarah-Specialist/revamp-project/blob/2a81d281d741da89181e094eb7d95a0db665b0df/images/outcomePhone.jpg)

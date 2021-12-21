@@ -192,6 +192,7 @@ article {
 
     .flex-container .navbar {
         display: none;
+        margin-bottom: 40px;
     }
 
     .flex-container > *:nth-child(2) {
@@ -208,10 +209,6 @@ article {
         right: 2%;
         width: 20px;
         height: 15px;
-    }
-
-    .navbar-links.active {
-        display: flex;
     }
 
     .main-content {

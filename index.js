@@ -1,15 +1,15 @@
 function menu() {
     const toggleButton = document.getElementsByClassName('toggle-button')[0]
-    const hamburgerLinks = document.getElementsByClassName('navbar')[0]
+    const navbar = document.getElementsByClassName('navbar')[0]
     console.log("hamburger clicked")
-    hamburgerLinks.classList.toggle('active');
+    navbar.style.display="flex";
 }
 
 /*
 const toggleButton = document.getElementsByClassName('toggle-button')[0]
-const hamburgerLinks = document.getElementsByClassName('hamburger')[0]
+const navbarLinks = document.getElementsByClassName('navbar-links')[0]
 
 toggleButton.addEventListener('click', () => {
-    hamburgerLinks.classList.toggle('active')
+    navbarLinks.classList.toggle('active')
 })
 */

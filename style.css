@@ -201,6 +201,7 @@ article {
 
     .navbar {
         margin-top: -10%;
+        max-height: 72vh;
     }
 
     .toggle-button {

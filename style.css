@@ -229,6 +229,7 @@ article {
         position: fixed;
         height: 25px;
         max-width: 100vw;
+        opacity: 100%;
     }
 
     .footer > *:nth-child(1) {
@@ -334,6 +335,7 @@ article {
         position: fixed;
         height: 4vh;
         max-width: 100vw;
+        opacity: 100%;
     }
 
     .footer > *:nth-child(1) {

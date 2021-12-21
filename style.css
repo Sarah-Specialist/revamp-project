@@ -308,6 +308,10 @@ article {
         max-height: 72vh;
     }
 
+    .navbar-links li {
+        padding:31% 0;
+    }
+
     .toggle-button {
         display: flex;
         top: 2%;

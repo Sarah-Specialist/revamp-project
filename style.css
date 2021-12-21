@@ -296,7 +296,7 @@ article {
 
     .flex-container .navbar {
         display: none;
-        margin-bottom: 40px;
+        margin-bottom: 70px;
     }
 
     .flex-container > *:nth-child(2) {

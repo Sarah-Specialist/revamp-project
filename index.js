@@ -5,10 +5,10 @@ function menu() {
     navbar.style.display="flex";
 
     
-    /* if (navbar.style.display=="flex") {
+   /* if (navbar.style.display=="flex") {
         navbar.style.display="none";
     } else if (navbar.style.display=="none") {
         navbar.style.display="flex";
-    } */
+    }*/
     
 }

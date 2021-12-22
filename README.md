@@ -43,7 +43,7 @@ I used the current version of the Mos Burger website and updated it while retain
 
 ![]( https://github.com/Sarah-Specialist/revamp-project/blob/fe3bd5cc9cb7b1bf4033de4af799097979e48d81/images/outcome.jpg)
 
-### Usage
+### Requirement
 
 1.	Positioning – used on various elements across website
 2.	Flexbox – used on navigation bar and main content

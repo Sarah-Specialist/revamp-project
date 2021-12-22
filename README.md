@@ -15,6 +15,7 @@ I used the current version of the Mos Burger website and updated it while retain
 
 * HTML
 * CSS
+* Bootstrap
 * JavaScript
 * Visual Studios Code
 * GitHub

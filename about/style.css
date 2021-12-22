@@ -4,7 +4,7 @@
 
 body {
     background-color:aqua;
-    background-image: url(./images/backgroundimage.jpg);
+    background-image: url(/images/backgroundimage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;

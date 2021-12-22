@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This is my individual project for the Trent Global Software Development Basic course. I have used the current version of the Mos Burger website and updated it while retaining the brand feelings. The current website for Mos Burger Singapore can be improved upon! On the top of the website, there are many social media icons that clutter the brand logo and brand motto.  On a smaller screen, the brand logo is hidden! The navigation bar is barely accessible. With some adjustment to HTML and CSS, the website becomes cleaner and responsive to the user.
+I used the current version of the Mos Burger website and updated it while retaining the brand feelings. The current website for Mos Burger Singapore can be improved upon! On the top of the website, there are many social media icons that clutter the brand logo and brand motto.  On a smaller screen, the brand logo is hidden! The navigation bar is barely accessible. With some adjustment to HTML and CSS, the website becomes cleaner and responsive to the user.
 
 ## Built with
 
@@ -43,7 +43,7 @@ This is my individual project for the Trent Global Software Development Basic co
 
 ![]( https://github.com/Sarah-Specialist/revamp-project/blob/fe3bd5cc9cb7b1bf4033de4af799097979e48d81/images/outcome.jpg)
 
-### Usage
+### Requirement
 
 1.	Positioning – used on various elements across website
 2.	Flexbox – used on navigation bar and main content
@@ -55,5 +55,4 @@ This is my individual project for the Trent Global Software Development Basic co
 
 ## Authors and acknowledgement
 
-* Trent Global
 * [Web Dev Simplified - Responsive Navbar Tutorial](https://www.youtube.com/watch?v=At4B7A4GOPg&t=4s)

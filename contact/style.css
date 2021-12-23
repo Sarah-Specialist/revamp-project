@@ -36,6 +36,14 @@ body {
     gap: 20px;
 }
 
+.flex-container > *:nth-child(1) {
+    flex: 1 1 20%;
+}
+
+.flex-container > *:nth-child(2) {
+    flex: 1 1 80%;
+}
+
 .toggle-button {
     position: absolute;
     top: 2%;
@@ -100,17 +108,12 @@ body {
     color: dodgerblue;
 }
 
-.col-1 {
-    background-color: black;
-}
-
 .main-content {
     flex-direction: column;
     justify-content: center;
     background-color: white;
     opacity: 95%;
     padding: 20px 80px;
-    min-width: 80vw;
     height: 72.5vh;
     overflow-y: scroll;
 }

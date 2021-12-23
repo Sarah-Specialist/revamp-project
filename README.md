@@ -49,7 +49,7 @@ The navigation bar is hidden when the screen size is small. It can be accessed u
 ### Requirement
 
 1.	Positioning – used on various elements across website
-2.	Flexbox – used on navigation bar and main content
+2.	Flexbox – used on navigation bar and main content, and footer
 3.	Demonstrate the website is responsive in adjusting to the sizing of a phone, ipad and laptop – media query provided for phone (width < 600px), ipad (width 600px-999px) and laptop (width > 1000px)
 4.	Website ability to load one background image – background image of burger
 5.	Website ability to load an image directly into HTML – used images uploaded and used images URL

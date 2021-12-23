@@ -51,11 +51,11 @@ The navigation bar is hidden when the screen size is small. It can be accessed u
 1.	Positioning – used on various elements across website
 2.	Flexbox – used on navigation bar and main content
 3.	Demonstrate the website is responsive in adjusting to the sizing of a phone, ipad and laptop 
-– media query provided for phone (width < 600px), ipad (width 600px-999px) and laptop (width > 1000px)
-5.	Website ability to load one background image – background image of burger
-6.	Website ability to load an image directly into HTML – used images uploaded and used images URL
-7.	Padding and Margin should be used when necessary – used on various elements across website
-8.	Row and columns should be used when necessary 
+   	– media query provided for phone (width < 600px), ipad (width 600px-999px) and laptop (width > 1000px)
+4.	Website ability to load one background image – background image of burger
+5.	Website ability to load an image directly into HTML – used images uploaded and used images URL
+6.	Padding and Margin should be used when necessary – used on various elements across website
+7.	Row and columns should be used when necessary 
 – row used for navigation bar and main content
 - columns used for navigation bar links
 

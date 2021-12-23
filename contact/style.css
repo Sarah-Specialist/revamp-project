@@ -215,7 +215,6 @@ article {
     .main-content {
         margin-top: -10%;
         padding: 20px 20px;
-        overflow-y: scroll;
         height: 88vh;
     }
 

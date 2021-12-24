@@ -118,6 +118,10 @@ body {
     overflow-y: scroll;
 }
 
+form {
+    text-align: left;
+}
+
 article h2 {
     color: #CF0015;
 }
@@ -215,6 +219,7 @@ article {
     .main-content {
         margin-top: -10%;
         padding: 20px 20px;
+        overflow-y: scroll;
         height: 88vh;
     }
 

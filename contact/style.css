@@ -37,11 +37,11 @@ body {
 }
 
 .flex-container > *:nth-child(1) {
-    flex: 1 1 20%;
+    flex: 1 1;
 }
 
 .flex-container > *:nth-child(2) {
-    flex: 1 1 80%;
+    flex: 1 1;
 }
 
 .toggle-button {
@@ -69,6 +69,7 @@ body {
     background-color: white;
     opacity: 95%;
     height: 73vh;
+    max-width: 30%;
 }
 
 .navbar-links {
@@ -115,19 +116,28 @@ body {
     opacity: 95%;
     padding: 20px 80px;
     height: 72.5vh;
-    overflow-y: scroll;
+    width: 70%;
+    overflow-y: hidden;
 }
 
 form {
     text-align: left;
 }
 
-article h2 {
+h5 {
     color: #CF0015;
 }
 
-article {
-    padding-bottom: 50px;
+.form {
+    padding-left: 30px;
+}
+
+#name {
+    margin-left:16px;
+}
+
+#email {
+    margin-left:21px;
 }
 
 .footer {

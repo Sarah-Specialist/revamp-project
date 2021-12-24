@@ -129,15 +129,23 @@ h5 {
 }
 
 .form {
-    padding-left: 30px;
+    padding-left: 10px;
 }
 
 #name {
-    margin-left:16px;
+    margin-left:29px;
+}
+
+#number {
+    margin-left:12px;
 }
 
 #email {
-    margin-left:21px;
+    margin-left:34px;
+}
+
+#message {
+    vertical-align: top
 }
 
 .footer {

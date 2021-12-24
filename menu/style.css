@@ -37,11 +37,11 @@ body {
 }
 
 .flex-container > *:nth-child(1) {
-    flex: 1 1 20%;
+    flex: 1 1;
 }
 
 .flex-container > *:nth-child(2) {
-    flex: 1 1 80%;
+    flex: 1 1;
 }
 
 .toggle-button {
@@ -68,6 +68,7 @@ body {
     flex-direction: column;
     background-color: white;
     opacity: 95%;
+    max-width: 30%;
     height: 73vh;
 }
 
@@ -115,6 +116,7 @@ body {
     opacity: 95%;
     padding: 20px 80px;
     height: 72.5vh;
+    max-width: 70%;
     overflow-y: scroll;
 }
 

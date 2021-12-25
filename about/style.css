@@ -114,7 +114,7 @@ body {
     justify-content: center;
     background-color: white;
     opacity: 95%;
-    padding: 20px 80px;
+    padding: 20px 30px 20px 50px;
     height: 72.5vh;
     max-width: 70%;
     overflow-y: scroll;
@@ -122,14 +122,37 @@ body {
 
 article h4 {
     color: #CF0015;
+    text-align: center;
 }
 
 article h5 {
     color: #AAC875;
+    text-align: center;
 }
 
 article {
     padding-bottom: 50px;
+    text-align: left;
+}
+
+table {
+    text-align: center;
+    font-size: 12px;
+    border: 1px solid #CF0015;
+}
+
+th {
+    background-color: #CF0015;
+    color: white;
+}
+
+td {
+    border: 1px solid #CF0015;
+    padding: 20px 5px 10px 0;
+}
+
+li {
+    margin-left: -10px;
 }
 
 .footer {

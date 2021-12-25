@@ -68,7 +68,7 @@ body {
     flex-direction: column;
     background-color: white;
     opacity: 95%;
-    max-width: 30%;
+    min-width: 30%;
     height: 73vh;
 }
 
@@ -116,16 +116,44 @@ body {
     opacity: 95%;
     padding: 20px 80px;
     height: 72.5vh;
-    max-width: 70%;
+    min-width: 70%;
     overflow-y: scroll;
 }
 
-article h2 {
+article h4 {
     color: #CF0015;
+    text-align: center;
+}
+
+article h5 {
+    text-align: center;
+}
+
+article button {
+    background-color: #AAC875;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+article button:hover {
+    font-weight: bold;
+    cursor: pointer;
 }
 
 article {
     padding-bottom: 50px;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    font-size: 12px;
+}
+
+td {
+    border: 1px solid white;
+    padding: 20px 5px;
 }
 
 .footer {
@@ -204,6 +232,7 @@ article {
     .navbar {
         margin-top: -10%;
         max-height: 72vh;
+        min-width: 100%;
     }
 
     .toggle-button {
@@ -219,11 +248,12 @@ article {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 88vh;
+        min-width: 100%;
     }
 
     article img {
         max-width: 90vw;
-    }
+    }   
 
     .footer {
         position: fixed;
@@ -308,6 +338,7 @@ article {
     .navbar {
         margin-top: -10%;
         max-height: 72vh;
+        min-width: 100%;
     }
 
     .navbar-links li {
@@ -327,6 +358,7 @@ article {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 85.5vh;
+        min-width: 100%;
     }
 
     article img {

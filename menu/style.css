@@ -135,6 +135,10 @@ article h6 {
     font-size: 14px;
 }
 
+.drink {
+    text-align: left;
+}
+
 .footer {
     display: flex;
     height: 5%;
@@ -231,6 +235,11 @@ article h6 {
 
     article img {
         max-width: 90vw;
+    }
+
+    .drink {
+        text-align: left;
+        font-size: 14px;
     }
 
     .footer {
@@ -340,6 +349,11 @@ article h6 {
 
     article img {
         max-width: 90vw;
+    }
+
+    .drink {
+        text-align: left;
+        font-size: 14px;
     }
 
     .footer {

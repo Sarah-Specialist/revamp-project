@@ -114,7 +114,7 @@ body {
     justify-content: center;
     background-color: white;
     opacity: 95%;
-    padding: 20px 80px;
+    padding: 20px 110px;
     height: 72.5vh;
     max-width: 70%;
     overflow-y: scroll;
@@ -126,6 +126,27 @@ article h2 {
 
 article {
     padding-bottom: 50px;
+}
+
+article h5 {
+    color: #AAC875;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    font-size: 12px;
+    border: 1px solid #CF0015;
+}
+
+th {
+    background-color: #CF0015;
+    color: white;
+}
+
+td {
+    border: 1px solid #CF0015;
+    padding: 5px 5px;
 }
 
 .footer {
@@ -219,10 +240,15 @@ article {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 88vh;
+        min-width: 100%;
     }
 
     article img {
         max-width: 90vw;
+    }
+
+    table {
+        font-size: 10px;
     }
 
     .footer {
@@ -327,10 +353,15 @@ article {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 85.5vh;
+        min-width: 100%;
     }
 
     article img {
         max-width: 90vw;
+    }
+
+    table {
+        font-size: 10px;
     }
 
     .footer {

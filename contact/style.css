@@ -124,7 +124,7 @@ form {
     text-align: left;
 }
 
-h5 {
+h4 {
     color: #CF0015;
 }
 
@@ -134,14 +134,17 @@ h5 {
 
 #name {
     margin-left:29px;
+    width: 300px;
 }
 
 #number {
     margin-left:12px;
+    width: 300px;
 }
 
 #email {
     margin-left:34px;
+    width: 300px;
 }
 
 #message {

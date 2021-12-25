@@ -224,6 +224,7 @@ h5 {
     .navbar {
         margin-top: -10%;
         max-height: 72vh;
+        min-width: 100%;
     }
 
     .toggle-button {
@@ -239,6 +240,7 @@ h5 {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 88vh;
+        min-width: 100%;
     }
 
     article img {

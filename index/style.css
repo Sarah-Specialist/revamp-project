@@ -204,6 +204,7 @@ article {
     .navbar {
         margin-top: -10%;
         max-height: 72vh;
+        min-width: 100%;
     }
 
     .toggle-button {
@@ -219,6 +220,7 @@ article {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 88vh;
+        min-width: 100%;
     }
 
     article img {
@@ -308,6 +310,7 @@ article {
     .navbar {
         margin-top: -10%;
         max-height: 72vh;
+        min-width: 100%;
     }
 
     .navbar-links li {
@@ -327,6 +330,7 @@ article {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 85.5vh;
+        min-width: 100%;
     }
 
     article img {

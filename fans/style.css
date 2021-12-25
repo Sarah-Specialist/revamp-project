@@ -68,7 +68,7 @@ body {
     flex-direction: column;
     background-color: white;
     opacity: 95%;
-    min-width: 30%;
+    max-width: 30%;
     height: 73vh;
 }
 
@@ -116,7 +116,7 @@ body {
     opacity: 95%;
     padding: 20px 80px;
     height: 72.5vh;
-    min-width: 70%;
+    max-width: 70%;
     overflow-y: scroll;
 }
 
@@ -127,6 +127,11 @@ article h4 {
 
 article h5 {
     text-align: center;
+}
+
+article span {
+    padding: 10px 20px;
+    font-weight: bold;
 }
 
 article button {

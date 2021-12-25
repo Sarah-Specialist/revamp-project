@@ -246,6 +246,7 @@ li {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 88vh;
+        min-width: 100%;
     }
 
     article img {
@@ -354,6 +355,7 @@ li {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 85.5vh;
+        min-width: 100%;
     }
 
     article img {

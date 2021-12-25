@@ -120,12 +120,19 @@ body {
     overflow-y: scroll;
 }
 
-article h2 {
+article h4 {
     color: #CF0015;
+    text-align: center;
 }
 
-article {
-    padding-bottom: 50px;
+article h5 {
+    color: #AAC875;
+    text-align: center;
+}
+
+article h6 {
+    text-align: center;
+    font-size: 14px;
 }
 
 .footer {
@@ -219,6 +226,7 @@ article {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 88vh;
+        min-width: 100%;
     }
 
     article img {
@@ -327,6 +335,7 @@ article {
         padding: 20px 20px;
         overflow-y: scroll;
         height: 85.5vh;
+        min-width: 100%;
     }
 
     article img {

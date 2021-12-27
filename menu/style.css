@@ -233,8 +233,14 @@ article h6 {
         min-width: 100%;
     }
 
-    article img {
-        max-width: 90vw;
+    td {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        width: 100vw;
+        padding: 20px 0;
     }
 
     .drink {
@@ -347,8 +353,14 @@ article h6 {
         min-width: 100%;
     }
 
-    article img {
-        max-width: 90vw;
+    td {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        width: 100vw;
+        padding: 20px 0;
     }
 
     .drink {

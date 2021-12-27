@@ -49,12 +49,17 @@ The navigation bar is hidden when the screen size is small. It can be accessed u
 ### Requirement
 
 1.	Positioning – used on various elements across website
-2.	Flexbox – used on navigation bar & main content, and footer, most important feature is the wrapping of flex items when screen size is small
-3.	Demonstrate the website is responsive in adjusting to the sizing of a phone, ipad and laptop – media query provided for phone (width < 600px), ipad (width 600px-999px) and laptop (width > 1000px)
+2.	Flexbox – used on navigation bar & main content, and footer
+	
+- most important feature is the wrapping of flex items when screen size is small (navigation bar stacks on top of main content, and footer hides copyright while showing social media icons)
+3.	Demonstrate the website is responsive in adjusting to the sizing of a phone, ipad and laptop 
+
+– media query provided for phone (width < 600px), ipad (width 600px-999px) and laptop (width > 1000px)
 4.	Website ability to load one background image – background image of burger
 5.	Website ability to load an image directly into HTML – used images uploaded and used images URL
 6.	Padding and Margin should be used when necessary – used on various elements across website
 7.	Row and columns should be used when necessary 
+
 – row used for navigation bar and main content, columns used for navigation bar links
 
 ## Authors and acknowledgement

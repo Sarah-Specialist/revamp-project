@@ -246,8 +246,12 @@ article h6 {
     }
 
     .drink {
-        text-align: left;
+        text-align: center;
         font-size: 14px;
+    }
+
+    .kids {
+        width: 90vw;
     }
 
     .footer {
@@ -350,26 +354,30 @@ article h6 {
 
     .main-content {
         margin-top: -10%;
-        padding: 20px 20px;
+        padding: 20px 10px;
         overflow-y: scroll;
         overflow-x: hidden;
         height: 83vh;
-        min-width: 100%;
+        max-width: 100vw;
     }
 
-    td {
+    tr {
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-between;
+        justify-content: center;
+        gap: 30px;
         align-items: center;
-        gap: 10px;
-        width: 100vw;
-        padding: 20px 0;
+        max-width: 100vw;
+        padding: 20px;
     }
 
     .drink {
-        text-align: left;
+        text-align: center;
         font-size: 14px;
+    }
+
+    .kids {
+        width: 90vw;
     }
 
     .footer {

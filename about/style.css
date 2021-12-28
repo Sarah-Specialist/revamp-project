@@ -231,6 +231,7 @@ li {
     .navbar {
         margin-top: -10%;
         max-height: 72vh;
+        max-width: 100vw;
     }
 
     .toggle-button {
@@ -336,6 +337,7 @@ li {
     .navbar {
         margin-top: -10%;
         max-height: 72vh;
+        max-width: 100vw;
     }
 
     .navbar-links li {

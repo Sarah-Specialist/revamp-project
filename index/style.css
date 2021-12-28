@@ -204,7 +204,7 @@ article {
     .navbar {
         margin-top: -10%;
         max-height: 72vh;
-        min-width: 100%;
+        max-width: 100vw;
     }
 
     .toggle-button {
@@ -310,7 +310,7 @@ article {
     .navbar {
         margin-top: -10%;
         max-height: 72vh;
-        min-width: 100%;
+        max-width: 100vw;
     }
 
     .navbar-links li {

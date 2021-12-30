@@ -231,7 +231,7 @@ article h6 {
         padding: 20px 10px;
         overflow-y: scroll;
         overflow-x: hidden;
-        height: 83vh;
+        height: 87vh;
         max-width: 100vw;
     }
 
@@ -267,12 +267,8 @@ article h6 {
     
     .footer > *:nth-child(2){
         position: absolute;
-        left: 0px;
+        left: 10%;
         bottom: 0px;
-    }
-
-    #socials {
-        text-align: left;
     }
 
     #facebook {
@@ -357,7 +353,7 @@ article h6 {
         padding: 20px 10px;
         overflow-y: scroll;
         overflow-x: hidden;
-        height: 83vh;
+        height: 85vh;
         max-width: 100vw;
     }
 
@@ -368,7 +364,7 @@ article h6 {
         gap: 30px;
         align-items: center;
         max-width: 100vw;
-        padding: 20px;
+        padding: 20px 150px;
     }
 
     .drink {
@@ -393,12 +389,8 @@ article h6 {
     
     .footer > *:nth-child(2){
         position: absolute;
-        left: 0px;
+        left: 15%;
         bottom: 0px;
-    }
-
-    #socials {
-        text-align: left;
     }
 
     #facebook {

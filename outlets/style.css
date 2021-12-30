@@ -240,7 +240,7 @@ td {
         margin-top: -10%;
         padding: 20px 20px;
         overflow-y: scroll;
-        height: 88vh;
+        height: 87vh;
         min-width: 100%;
     }
 
@@ -249,7 +249,7 @@ td {
     }
 
     table {
-        font-size: 10px;
+        font-size: 8px;
     }
 
     .footer {
@@ -265,12 +265,8 @@ td {
     
     .footer > *:nth-child(2){
         position: absolute;
-        left: 0px;
+        left: 10%;
         bottom: 0px;
-    }
-
-    #socials {
-        text-align: left;
     }
 
     #facebook {
@@ -379,12 +375,8 @@ td {
     
     .footer > *:nth-child(2){
         position: absolute;
-        left: 0px;
+        left: 15%;
         bottom: 0px;
-    }
-
-    #socials {
-        text-align: left;
     }
 
     #facebook {
